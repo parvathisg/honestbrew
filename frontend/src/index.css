@@ -1,0 +1,16 @@
+header {
+    background-color: #ebebeb;
+}
+
+header .container {
+    max-width: 1000px;
+    margin: auto;
+}
+
+header .container nav {
+    padding: 25px 0;
+}
+
+header .container img {
+    height: 25px;
+}
